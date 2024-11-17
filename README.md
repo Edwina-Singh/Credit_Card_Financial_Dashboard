@@ -4,7 +4,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 # Project Insight
 WoW change:
 • Revenue increased by 28.8%,
-• Total Transaction Amt & Count increased by 25% & 18%
+• Total Transaction Amt & Count increased by 95% & 18%
 • Customer count increased by 15%
 
 Overview YTD:
